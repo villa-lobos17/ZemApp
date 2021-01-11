@@ -1,0 +1,74 @@
+<header class="header clearfix">
+    <nav>
+        <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+                <button type="button" class="btn btn-primary">
+                  Home
+                </button>
+            </li>
+            <li class="nav-item"  *ngIf="role == 'Writer'" >
+                <button type="button" class="btn btn-link" (click)="openModal(template2)" data-toggle="modal" data-target="#exampleModal">
+                  Add
+                </button>
+            </li>
+            <li class="nav-item">
+                 <button type="button" (click)="openModal(template)" class="btn btn-link">
+                    {{ author }}
+                </button>
+            </li>
+            <li class="nav-item">
+                <button type="button" (click)="logOut()" class="btn btn-link">
+                 Logout
+               </button>
+           </li>
+        </ul>
+    </nav>
+    <h3 class="text-muted">Angular Blog App</h3>
+</header>
+<main role="main">
+  
+
+
+
+    <div class="row" *ngIf="role == 'Editor'">
+        <div class="row">
+            <h4>Pending Post</h4>
+        </div>
+        <div class="row">
+        <ng-template ngFor let-item [ngForOf]="pending" let-i="index" >
+            <app-post-content [model]="item" ></app-post-content>
+        </ng-template>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="row">
+            <h4>Approve Post</h4>
+        </div>
+        <div class="row">
+        <ng-template ngFor let-item [ngForOf]="posts" let-i="index" >
+            <app-post-content [model]="item" ></app-post-content>
+        </ng-template>
+    </div>
+    </div>
+
+    
+    <app-blog-post></app-blog-post>
+    
+    
+    <ng-template #template2>        
+            <div class="modal-body">
+                <app-add-post></app-add-post>
+            </div>
+     </ng-template>
+    <ng-template #template>        
+        <div class="modal-body">
+            <app-login></app-login>
+        </div>
+      </ng-template>
+    
+</main>
+
+<footer class="footer">
+    <p>&copy; Company 2017</p>
+</footer>

@@ -1,0 +1,12 @@
+.item {
+    margin-top: 5%;
+}
+.item .btn{
+    margin-left: 2%;
+}
+
+.item .btns{
+    margin-left: 1%;
+    vertical-align: middle;
+    margin-bottom: 1%;
+}

@@ -1,0 +1,14 @@
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Application.deps.json
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Application.dll
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Application.pdb
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Domain.dll
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Infrastructure.dll
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Domain.pdb
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\bin\Debug\netcoreapp3.1\ZemApp.Infrastructure.pdb
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.csprojAssemblyReference.cache
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.AssemblyInfoInputs.cache
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.AssemblyInfo.cs
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.csproj.CopyComplete
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.dll
+C:\Users\villa\source\repos\ZemApp\ZemApp.Application\obj\Debug\netcoreapp3.1\ZemApp.Application.pdb

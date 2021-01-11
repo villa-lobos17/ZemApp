@@ -1,0 +1,19 @@
+<div class="row item">
+    <div class="card" style="width: 60rem;">
+    <div>
+        <div class="card-body">
+        <h3>Add Post</h3>
+        <div class="row">
+            <label for="title" class="sr-only">Title</label>
+            <input name="title" [(ngModel)] = "post.title" type="email" id="title" class="form-control" placeholder="title" required autofocus>
+     
+        </div>
+               <br> 
+       <ckeditor [editor]="Editor"  [(ngModel)]="post.post_Content"  ></ckeditor>
+        </div>
+        <div class="row btns">
+        <a href="#" (click)="addPost()" class="btn btn-primary">Add</a>
+        </div>
+    </div>
+    </div>
+</div>

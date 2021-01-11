@@ -1,0 +1,15 @@
+
+<div class="row item">
+<div class="card" style="width: 60rem;">
+<div>
+    <div class="card-body">
+        <h5 class="card-title">{{model.title}}</h5>
+        <ckeditor [editor]="Editor"  [(ngModel)]="model.post_Content"  ></ckeditor>
+    </div>
+    <div class="row btns" *ngIf="model.state == '0'"   >
+    <a (click)="ChangeState('Approve')" class="btn btn-primary">Approve</a>
+    <a (click)="ChangeState('Rejected')"  class="btn btn-danger">Reject</a>
+    </div>
+</div>
+</div>
+</div>

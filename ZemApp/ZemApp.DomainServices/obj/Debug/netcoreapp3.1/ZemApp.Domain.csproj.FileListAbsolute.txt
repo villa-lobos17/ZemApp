@@ -1,0 +1,8 @@
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\bin\Debug\netcoreapp3.1\ZemApp.Domain.deps.json
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\bin\Debug\netcoreapp3.1\ZemApp.Domain.dll
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\bin\Debug\netcoreapp3.1\ZemApp.Domain.pdb
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.AssemblyInfoInputs.cache
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.AssemblyInfo.cs
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.dll
+C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.pdb
