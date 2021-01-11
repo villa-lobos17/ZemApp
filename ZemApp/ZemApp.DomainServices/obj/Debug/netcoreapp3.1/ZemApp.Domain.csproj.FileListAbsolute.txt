@@ -6,3 +6,12 @@ C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1
 C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.csproj.CoreCompileInputs.cache
 C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.dll
 C:\Users\villa\source\repos\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.pdb
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\bin\Debug\netcoreapp3.1\ZemApp.Domain.deps.json
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\bin\Debug\netcoreapp3.1\ZemApp.Domain.dll
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\bin\Debug\netcoreapp3.1\ZemApp.Domain.pdb
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.csprojAssemblyReference.cache
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.AssemblyInfoInputs.cache
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.AssemblyInfo.cs
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.csproj.CoreCompileInputs.cache
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.dll
+E:\MyCode\Prueba tecnica\ZemApp\ZemApp\ZemApp.DomainServices\obj\Debug\netcoreapp3.1\ZemApp.Domain.pdb

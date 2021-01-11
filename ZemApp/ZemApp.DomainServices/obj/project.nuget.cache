@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Z3Se+vFStg8KOiLvcLR5iAas5RXz46Hg48rTWj6+sETVYF6E4IvmFpYSmoEeVLj544lh/zLex4Umt26BFmnPA==",
+  "dgSpecHash": "kM8s8TOwI6RITzDr1BTNdtUtgkLeXt/NCH7AWJgSABpdXANulBsDF+TZMj6hz/KpOR6fgqd6TxdhgKrIcC8qOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
+  "projectFilePath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\villa\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512"
   ],

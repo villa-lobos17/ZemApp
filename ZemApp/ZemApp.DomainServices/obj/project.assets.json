@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
+      "projectUniqueName": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
       "projectName": "ZemApp.Domain",
-      "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
+      "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
       "packagesPath": "C:\\Users\\villa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\obj\\",
+      "outputPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\villa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4926,11 +4926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
+      "projectUniqueName": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
       "projectName": "ZemApp.Application",
-      "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
+      "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
       "packagesPath": "C:\\Users\\villa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\obj\\",
+      "outputPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\villa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4947,11 +4947,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj"
+            "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
+              "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj"
             },
-            "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj"
+            "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj": {
+              "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj"
             }
           }
         }

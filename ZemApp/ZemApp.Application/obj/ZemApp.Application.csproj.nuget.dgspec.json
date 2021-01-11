@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj": {}
+    "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj": {
+    "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
+        "projectUniqueName": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
         "projectName": "ZemApp.Application",
-        "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
+        "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\ZemApp.Application.csproj",
         "packagesPath": "C:\\Users\\villa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Application\\obj\\",
+        "outputPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\villa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj"
+              "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
+                "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj"
               },
-              "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj"
+              "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj": {
+                "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
+    "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
+        "projectUniqueName": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
         "projectName": "ZemApp.Domain",
-        "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
+        "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj",
         "packagesPath": "C:\\Users\\villa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\obj\\",
+        "outputPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\villa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj": {
+    "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj",
+        "projectUniqueName": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj",
         "projectName": "ZemApp.Infrastructure",
-        "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj",
+        "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\villa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\obj\\",
+        "outputPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\villa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj"
+              "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj": {
+                "projectPath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.DomainServices\\ZemApp.Domain.csproj"
               }
             }
           }

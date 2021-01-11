@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
+using ZemApp.Application.GenerateSampleData;
 using ZemApp.Domain.Entities;
 using ZemApp.Domain.Entities.BlogEnums;
 using ZemApp.Domain.Services;
@@ -13,12 +14,16 @@ namespace ZemApp.Api.Controllers
     public class BlogPostController : ControllerBase
     {
         private readonly IBlogPostAppService _blogPostAppService;
+        private ISampleDataUtil _sampleDataUtil;
         private readonly ILogger<BlogPostController> _logger;
 
-        public BlogPostController(IBlogPostAppService blogPostAppService, ILogger<BlogPostController> logger)
+        public BlogPostController(IBlogPostAppService blogPostAppService, ILogger<BlogPostController> logger, ISampleDataUtil sampleDataUtil)
         {
             _blogPostAppService = blogPostAppService;
             _logger = logger;
+            _sampleDataUtil = sampleDataUtil;
+            if (!_sampleDataUtil.HasDataLoad())
+                _sampleDataUtil.GenerateData();
         }
 
         /// <summary>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMVzgthuIkCtHRtTtSpfeqgL1eps7U0r2xiRmQF1X1216RG9LMH+PrWge+A1Nq3BMRd6GgPbPmPfzrXRfv/jXQ==",
+  "dgSpecHash": "UXDH8s0NayD12EjkLfcOn7YGBCZNKMm3Piqxui3IBtEl4f3ZYCKQtLZYqleU7wd/JZGkzw0tZrr5N/yTop0kFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\villa\\source\\repos\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj",
+  "projectFilePath": "E:\\MyCode\\Prueba tecnica\\ZemApp\\ZemApp\\ZemApp.Infrastructure\\ZemApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\villa\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\villa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
