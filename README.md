@@ -17,7 +17,7 @@ El codigo esta estructurado en las siguientes proyectos:
 
 el codigo del cliente esta estructurado en 2 partes en el mismo proyecto teniendo en cuenta que el codigo cliente es .Net core y el codigo de la vista se encuentra en la carpeta ** ClientApp ** 
 
-![alt text](https://raw.githubusercontent.com/villa-lobos17/ZemApp/main/client.png)
+![alt text](https://raw.githubusercontent.com/villa-lobos17/ZemApp/main/client.PNG)
 
 
 
