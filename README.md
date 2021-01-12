@@ -54,7 +54,7 @@ Usuario Editor **
 ### Desarrollo punto 1
 La prueba no requiere de correr scripts, apenas esta inicie redirige al usuario al home de los post, teniendo las opciones solicitadas en el punto 1 
 
-
+![alt text](https://raw.githubusercontent.com/villa-lobos17/ZemApp/main/App1.PNG)
 
 
 ### Desarrollo punto 2
