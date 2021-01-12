@@ -72,4 +72,5 @@ http://localhost:3907/api/BlogPost/approval
 
 
 ####  Total hours of effort
-* 21 hours
+* 19 hours dev
+* 1.5 hours documentation
