@@ -45,12 +45,11 @@ In order to run the test, it must be opened with visual studio and compiled, if 
 
 ### Test Access Data
 
-** 
-User Editor **
+** Editor User **
 * Email : terminator@gmail.com
 * Password : AB1234
 </br>
-** User Escritor **
+** Writer User **
 
 * Email : Jhon.connor@gmail.com 
 * Password : AB1234
