@@ -71,3 +71,5 @@ The endpoint to update the pending posts is:
 http://localhost:3907/api/BlogPost/approval
 
 
+####  Total hours of effort
+* 21 hours
